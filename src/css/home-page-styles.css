@@ -1,0 +1,47 @@
+body {
+    overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold !important;
+    color: #212225 !important;
+}
+
+h1 {
+    font-size: 74.34px !important;
+}
+
+h2 {
+    font-size: 58.5px !important;
+}
+
+h3 {
+    font-size: 46.88px !important; 
+}
+
+h4 {
+    font-size: 37.5px !important;
+}
+
+h5 {
+    font-size: 30px !important;
+}
+
+h6 {
+    font-size: 24px !important;
+}
+
+p {
+    color: #212225 !important;
+    opacity: 75% !important;
+    font-size: 24px !important;
+}
+
+.navbar .navbar-brand {
+    margin-left: 96px;
+}
+
+.navbar-brand img {
+    width: 56px;
+    height: 56px;
+}

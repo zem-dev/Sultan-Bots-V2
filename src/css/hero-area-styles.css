@@ -1,0 +1,33 @@
+.hero-area {
+    margin-left: 96px;
+    margin-top: 256px;
+}
+
+.hero-area-subtitle {
+    opacity: 75%;
+}
+
+.hero-area-paragraph {
+    max-width: 688px;
+    margin-top: 40px; 
+}
+
+.hero-area .btn {
+    width: 256px;
+    height: 72px;
+
+    margin-top: 32px;
+
+    border-radius: 100px;
+
+    font-size: 32px;
+
+    background-image: linear-gradient(#5865F2, #4DB6F9);
+
+    border: none;
+}
+
+.code-image {
+    width: 1000px;
+}
+
