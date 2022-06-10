@@ -1,0 +1,14 @@
+.about-section-title {
+    margin-bottom: 48px;
+    margin-top: 128px;
+}
+
+.your-server-span {
+    color: #4DB6F9;
+    text-decoration: underline;
+}
+
+.about-section-desc {
+    opacity: 100% !important;
+    max-width: 712px;
+}
