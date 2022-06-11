@@ -15,9 +15,9 @@ const PlansSection = () => {
                         <h4>$1</h4>
 
                         <ul>
-                            <li>Feature 1</li>
-                            <li>Feature 2</li>
-                            <li>Feature 3</li>
+                            <li>5 Commands</li>
+                            <li>No Bot Support</li>
+                            <li>No Custom Logo</li>
                         </ul>
 
                         <Button variant="dark">Buy now</Button> 
@@ -30,9 +30,9 @@ const PlansSection = () => {
                         <h4>$3</h4>
 
                         <ul>
-                            <li>Feature 1</li>
-                            <li>Feature 2</li>
-                            <li>Feature 3</li>
+                            <li>10 Commands</li>
+                            <li>Bot Support</li>
+                            <li>No Custom Logo</li>
                         </ul>
 
                         <Button variant="dark">Buy now</Button> 
@@ -45,9 +45,9 @@ const PlansSection = () => {
                         <h4>$5</h4>
 
                         <ul>
-                            <li>Feature 1</li>
-                            <li>Feature 2</li>
-                            <li>Feature 3</li>
+                            <li>Unlimited Commands</li>
+                            <li>Bot Support</li>
+                            <li>Custom Logo</li>
                         </ul>
 
                         <Button variant="dark">Buy now</Button> 
